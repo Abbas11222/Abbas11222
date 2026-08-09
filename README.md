@@ -111,7 +111,7 @@
 
 <div align="center">
 
-**🌐 [Portfolio](https://Abbas11222.github.io) · 📄 [Live CV](https://livelink.cv/muhammad-abbas) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-flutterdev)**
+**🌐 [Portfolio](https://Abbas11222.github.io/portfolio) · 📄 [Live CV](https://livelink.cv/muhammad-abbas) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abbas-flutterdev)**
 
 *Open to full-time roles, freelance projects and collaborations*
 
