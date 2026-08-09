@@ -80,9 +80,18 @@
 
 <div align="center">
 
-![Muhammad Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abbas11222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/Abbas11222">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Abbas11222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Abbas11222">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=Abbas11222&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas11222&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abbas11222&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abbas11222&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
