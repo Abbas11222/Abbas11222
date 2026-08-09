@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · Flutter Developer · NLP Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-5b4cf5?style=for-the-badge)](https://Abbas11222.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-5b4cf5?style=for-the-badge)](https://Abbas11222.github.io/portfolio)
 [![Live CV](https://img.shields.io/badge/📄_Live_CV-View-059e7b?style=for-the-badge)](https://livelink.cv/muhammad-abbas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-abbas-flutterdev)
 [![Email](https://img.shields.io/badge/Email-Contact-e53e6a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbas17299@gmail.com)
